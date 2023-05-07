@@ -4,6 +4,9 @@
 
 ### Hi there 👋
 
-![DataCamp Data Analytics GIF](https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" alt="DataCamp Data Analytics GIF">
+</div>
+
 
 ### :woman_technologist: About Me :
