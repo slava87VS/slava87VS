@@ -17,15 +17,25 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Analitycs (Data Engineer) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+· collection, processing, analysis, loading of data for analytical research
 
-- :seedling: Exploring Technical Content Writing.
+· working with databases in MS SQL, Postgres
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+· formation of analytics in business areas
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+· formation and testing of hypotheses
+
+· construction of factor models, identification of trends, interpretation of results
+
+· development and support of ETL processes in Airflow
+
+· data visualization
+
+· Machine Learning
+
+· DWH
 
 
 ---
@@ -41,5 +51,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Project :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
